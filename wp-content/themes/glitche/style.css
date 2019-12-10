@@ -4731,7 +4731,7 @@ iframe, object {
 	float: right;
 	width: 18px;
 	height: 18px;
-	background: url(/wp-content/themes/glitche/assets/images/android-search.png) no-repeat center center;
+	background: url(http://anniegilchrist.github.io/annies-profile/wp-content/themes/glitche/assets/images/android-search.png) no-repeat center center;
 	background-size: 18px 18px;
 	font-size: 0;
 	border: none;
@@ -4945,7 +4945,7 @@ iframe, object {
 	display: block;
 	width: 20px;
 	height: 20px;
-	background: url(/wp-content/themes/glitche/assets/images/pag.png) no-repeat center center;
+	background: url(http://anniegilchrist.github.io/annies-profile/wp-content/themes/glitche/assets/images/pag.png) no-repeat center center;
 	-webkit-transform: scaleX(-1);
 	transform: scaleX(-1);
 }

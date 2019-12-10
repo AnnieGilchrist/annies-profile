@@ -13,12 +13,12 @@
 @font-face {
        font-family: "Ionicons"; 
     src: 
-        url("/wp-content/themes/glitche/assets/fonts/ionicons.eot?v=2.0.1"); 
+        url("http://anniegilchrist.github.io/annies-profile/wp-content/themes/glitche/assets/fonts/ionicons.eot?v=2.0.1"); 
     src: 
-        url("/wp-content/themes/glitche/assets/fonts/ionicons.eot?v=2.0.1#iefix") format("embedded-opentype"),
-        url("/wp-content/themes/glitche/assets/fonts/ionicons.ttf?v=2.0.1") format("truetype"),
-        url("/wp-content/themes/glitche/assets/fonts/ionicons.woff?v=2.0.1") format("woff"),
-        url("/wp-content/themes/glitche/assets/fonts/ionicons.svg?v=2.0.1#Ionicons") format("svg"); 
+        url("http://anniegilchrist.github.io/annies-profile/wp-content/themes/glitche/assets/fonts/ionicons.eot?v=2.0.1#iefix") format("embedded-opentype"),
+        url("http://anniegilchrist.github.io/annies-profile/wp-content/themes/glitche/assets/fonts/ionicons.ttf?v=2.0.1") format("truetype"),
+        url("http://anniegilchrist.github.io/annies-profile/wp-content/themes/glitche/assets/fonts/ionicons.woff?v=2.0.1") format("woff"),
+        url("http://anniegilchrist.github.io/annies-profile/wp-content/themes/glitche/assets/fonts/ionicons.svg?v=2.0.1#Ionicons") format("svg"); 
     font-weight: normal; 
     font-style: normal;
 }
