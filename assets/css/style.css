@@ -47,7 +47,7 @@ a, .section.works .filters label {
 .popup-box,
 .preloader,
 .skills.circles .progress:after {
-  background: #f1f1f1;
+  background: #f1f1f1 !important;
 }
 
   /* 1. Theme Colors */
@@ -63,7 +63,7 @@ a:hover, .preloader .load, .preloader .typed-load, .preloader .typed-cursor, .he
 .section.works .filters label.glitch-effect, .box-items .box-item:hover .desc .name, .box-items .box-item .date,
 .started-content .date, .single-post-text p a, .post-text-bottom span.cat-links a, .post-text-bottom .tags-links a, .post-text-bottom .tags-links span,
 footer .soc a:hover .ion, .content-sidebar .tagcloud a, .content-sidebar .widget ul li a:hover, .box-items .box-item .date a, .skills.list ul li .name:before, .background-enabled .header .head-top .top-menu ul li.current-menu-item > a, .background-enabled .header .head-top .top-menu-nav .sub-menu li a:hover, .header .head-top .top-menu-nav .sub-menu li a:hover, .header .head-top .top-menu-nav .children li a:hover, .widget_nav_menu .menu li.current-menu-item > a {
-  color: #1c45b5;
+  color: #1c45b5 !important;
 }
 a.btn.fill, .btn.fill, .header .head-top .top-menu ul li.menu-contact-btn.current-menu-item a, .header .head-top .top-menu ul li.menu-contact-btn a:hover,
 .resume-items .resume-item .date, .box-items .box-item .date, .started-content .date, .post-text-bottom .tags-links a, .post-text-bottom .tags-links span,
@@ -447,13 +447,13 @@ a.btn:hover,
 }
 
 .preloader .load {
-  color: #ffffff;
+  color: #1c45b5;
   font-size: 12px;
 }
 
 .preloader .typed-load,
 .preloader .typed-cursor {
-  color: #ffffff;
+  color: #1c45b5;
   font-size: 12px;
 }
 
@@ -464,7 +464,7 @@ a.btn:hover,
   bottom: 30px;
   width: auto;
   height: auto;
-  background: #fff;
+  background: #f1f1f1;
   z-index: 1000;
 }
 
