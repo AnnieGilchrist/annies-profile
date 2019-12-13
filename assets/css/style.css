@@ -4779,28 +4779,6 @@ iframe, object {
   -khtml-box-shadow: inset 0 -6px 0px #ede574;
 }
 
-.search-form input.search-field {
-  border: solid 1px #ddd;
-  width: 100%;
-  height: 50px;
-  margin: 0;
-  padding: 0 50px 0 15px;
-  box-shadow: none;
-  font-weight: 400;
-}
-
-.search-form input.search-submit {
-  margin-top: -34px;
-  margin-right: 12px;
-  float: right;
-  width: 18px;
-  height: 18px;
-  background: url(https://anniegilchrist.github.io/profile/wp-content/themes/glitche/assets/images/android-search.png) no-repeat center center;
-  background-size: 18px 18px;
-  font-size: 0;
-  border: none;
-}
-
 .content-sidebar h2.widget-title {
   padding-bottom: 20px;
   margin: -26px -25px 25px -25px;
@@ -4975,55 +4953,6 @@ iframe, object {
 
 .content-sidebar .widget.widget_media_image {
   max-width: 100%;
-}
-
-.navigation.post-navigation {
-  height: 18px;
-}
-
-.navigation.post-navigation .nav-links a {
-  position: relative;
-  font-size: 12px;
-  font-weight: 400;
-  text-transform: uppercase;
-  color: #aca3a3;
-  line-height: 20px;
-  position: relative;
-  padding: 5px 10px;
-  display: inline-block;
-  -webkit-transition: all 0.2s ease-out 0s;
-  transition: all 0.2s ease-out 0s;
-}
-
-.navigation.post-navigation .nav-links .nav-previous a {
-  float: left;
-  padding-left: 34px;
-}
-
-.navigation.post-navigation .nav-links .nav-previous a:before, .navigation.post-navigation .nav-links .nav-next a:after {
-  margin-top: -10px;
-  position: absolute;
-  content: '';
-  left: 0;
-  top: 50%;
-  display: block;
-  width: 20px;
-  height: 20px;
-  background: url(https://anniegilchrist.github.io/profile/wp-content/themes/glitche/assets/images/pag.png) no-repeat center center;
-  -webkit-transform: scaleX(-1);
-  transform: scaleX(-1);
-}
-
-.navigation.post-navigation .nav-links .nav-next a {
-  float: right;
-  padding-right: 34px;
-}
-
-.navigation.post-navigation .nav-links .nav-next a:after {
-  left: auto;
-  right: 0;
-  -webkit-transform: scaleX(1);
-  transform: scaleX(1);
 }
 
 .post-edit-link {
